@@ -94,6 +94,10 @@ language = {
 print(language)
 print(len(language))
 
+d = {"name" : "ram", "age" : 18}
+print( d["age"])
+
+
 
 
 
